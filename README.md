@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 52px;"> Ricky Zheng </h1>  
+<h1 align="center" style="font-size: 52px;"> Hey there, I'm Ricky Zheng </h1>  
 <div align="center">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lordrickyz)
