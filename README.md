@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rickyzhengs)
 [![Yahoo](https://img.shields.io/badge/-Yahoo-6001d2?style=flat&logo=Yahoo&logoColor=white)](mailto:rickyzheng@ymail.com )
 <span align="center">
-<h5 align="center">  Email: rickyzheng@ymail.com   |  | New York, NY</h5>
+<h5 align="center">  Email: rickyzheng@ymail.com   |  | Brooklyn, NY</h5>
 
 <a name="skills"><h1 align="left" style="font-size: 32px;"> 📖 Skills </h1></a>
 <div align="left">
