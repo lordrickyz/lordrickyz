@@ -17,16 +17,17 @@
 <a name="projects"><h1 align="left" style="font-size: 32px;"> 💻 Projects </h1></a>
 
 <div align="left">
-<a name="swe"><h3 style="text-decoration: none;"><b>Software Engineer</b> | March  2020 - Present | </h3></a>
+<a name="swe"><h3 style="text-decoration: none;"><b>Software Engineer</b> | July 2020 - Present | </h3></a>
 🚴 <b>GroupRide</b> |  MongoDB , Express.js , React , Node.js , Webpack , GIMP |
 </div></br>
 	
 <div align="left">
 <p>MERN stack application that allows users to schedule and create biking events with safest routes:</p>
 <ul>
-    <li>Utilized React and Redux to dynamically present information depending on current state allowing the user to login through modals and interact with event feeds.</li>
-    <li>Lead frontend designs, providing creative and efficient inputs and enabling RESTful calls to be serviced for UI applications supporting data fetching from the client.</li>
-    <li>Incorporated Express.Js to retrieve promises connecting stored data in MongoDB and using React to manage the current state allowing users to retrieve their session to either log in or sign up.</li>
+    <li>Originated a team workflow to create a full stack platform for usering to form biking events and trips by using Git best practices to avoid merge conflicts and maximize productivity.</li>
+    <li>Illustrated modals with pop out function using React and utilized Redux to manage state data for current API management during testing process.</li>
+    <li>Integrated Google Maps and Geolocation API to produce locally mapped routes for biking events.</li>
+	<li>Incorporated ExpressJS as middleware for backend connections to modify data to database: MongoDB.</li>
   </ul>
 </div></br>
 	
@@ -41,9 +42,10 @@
 <div align="left">
 <p>React and Ruby on Rails Kanban tool; collaboration tool that organizes your projects into boards.</p>
 <ul>
-    <li>Utilized jbuilders to establish connections between Rails and React by querying JSON using AJAX requests to allow middlewares to receive RESTful information to be sent to frontend and processed for rendering.</li>
-    <li>Integrated React Drag and Drop library to React UI to allow swapping of content from list to another list.</li>
-    <li>Leveraged BCrypt Hashing to secure user passwords from backend to frontend. Preventing malicious users from accessing actual passwords in the frontend. Session is stored in cookies, but nulls when a user logs out.</li>
+    <li>Created a full stack web application inspired by Trello using Ruby on Rails framework and React.</li>
+    <li>Designed APIs and used React-Router library for personal boards using jbuilders and rails to query using AJAX requests which allows middlewares to receive RESTful information from our database to the frontend.</li>
+    <li>Integrated Drag and Drop library to React UI allowing swapping of content and visual performance.</li>
+	<li>Leveraged BCrypt library to hash and salt passwords to prevent password exploitation and built a switch script for sessions stored in cookies to nullify the user session when a user logs out.</li>
   </ul>
 
 </div></br>
@@ -60,9 +62,8 @@
 <div align="left">
 <p>Interactive JavaScript game where users shoot bubbles to match other bubbles until the board is cleared:</p>
 <ul>
-    <li>Implemented hexagonal collision algorithms in pure JavaScript to allow bubbles to snap onto a relative position on the board after colliding with either the top of the board or another bubble object.
-</li>
-    <li>Incorporated HTML5 canvas for UI design of the game and rendition of game mechanics such as the bubble, the launcher, and the board.</li>
+    <li>Incorporated HTML canvas for UI designing of the popular game and rendition of game mechanics such as the bubbles, the launcher, and the board. </li>
+    <li>Built collision functions in JavaScript classes to allow bubbles to snap onto a relative position on the board after colliding with either the top of the board or another bubble object.</li>
   </ul>
 
 </div></br>
@@ -76,9 +77,9 @@
 <a name="life_agent"><h3 style="text-decoration: none;"><b>Life Insurance Agent</b>  |   World Financial Group
 	|    April  2019 - March 2020    | </h3>	</a>
 <ul>
-    <li>Provided financial education to clients that are looking forward to investing their future.</li>
-    <li>Built and led training sessions of new software and procedures, allowing team members to be better agents.</li>
-<li> Managed and led team projects for inclusion and diversity within the team office.</li>
+    <li>Advised clients about life products and provide suitable product information that best fits the clients needs.</li>
+    <li>Accelerated daily follow-ups in working with IT to process documents as well as ensuring clients are receiving correct documents.</li>
+	<li>Trained new hires and advised onboarding members about financial products and the platform.</li>
  </ul>
 
 
@@ -87,21 +88,21 @@
 |   January  2017 - March  2019   | </h3></a>
 
 <ul>
-    <li>Fundraised and managed thousands in donations ensuring organization to be able to purchase a vehicle and assisted in modification of the vehicle as a mobile screening unit..</li>
-    <li>Managed and connected relations with partners to authorize scheduling of events, providing health education events and screening. Ensuring legal and proper protocols to enable successful first clinic launch. </li>
+	<li>Organized fundraising events to gain cash flow to be able to fund clinic operation and project management.</li>
+  	<li>Facilitated and managed relations with partners to authorize scheduling of events, providing health education events and clinical screening.</li>
+    <li>Researched and regulated safety and legal protocols to ensure the mobile clinic is under proper coverage.</li>
  </ul>
 
 
 <a name="education"><h1 style="font-size: 32px;" align="left"> 🎓  Education </h1></a>
 
 <div align="left">
-<b>App Academy - Fullstack</b>  |   Spring 2020   |   New York, NY    |   1500+ hour curriculum  </br>
-<p>Immersive software development course with focus on full stack development with < 3% acceptance rate.</p>
+<b>App Academy - Fullstack</b>  | 2020 - 2021   |   New York City, NY    | </br>
+
+<p>Highly selective software development coding bootcamp with focus on full stack web development and emphasis on test driven development.</p>
 </div>
 
 <div align="left">
-<b>University of North Carolina at Chapel Hill</b>   |   Fall 2015 - Spring 2019   | Chapel Hill, NC | </br>
-
-<p>Bachelor of Science in Biology | Chemistry and Chinese Minor | </p>
+<b>University of North Carolina at Chapel Hill</b>   |   Fall 2015 - Spring 2019   |  Chapel Hill, NC  | </br>
 
 </div>
