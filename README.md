@@ -104,5 +104,6 @@
 
 <div align="left">
 <b>University of North Carolina at Chapel Hill</b>   |   Fall 2015 - Spring 2019   |  Chapel Hill, NC  | </br>
+<p> Bachelor of Science in Biology | Chemistry and Chinese Minor | </p>
 
 </div>
