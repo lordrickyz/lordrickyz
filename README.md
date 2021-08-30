@@ -1,6 +1,6 @@
 # Hi, I'm Ricky!  🐕 
 
-## 👋 About me
+## 👋 About Me 👋
 
 I'm a Software Engineer coming from a health care background with a passion for discovering how things work and making them better!
 
