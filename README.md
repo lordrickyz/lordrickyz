@@ -10,7 +10,7 @@ I'm a Software Engineer coming from a health care background with a passion for 
   <a href="https://lordrickyz.github.io/"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/rickyzhengs/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
-
+<!-- 
 ## ⭐️ GitHub Stats ⭐️
 
 <p align="center">
@@ -19,7 +19,7 @@ I'm a Software Engineer coming from a health care background with a passion for 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lordrickyz&theme=buefy&layout=compact&langs_count=6"/>
   </a>
 </p>
-
+ -->
 ## 🧐 Projects 🧐 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=lordrickyz&repo=bubble-pop&theme=buefy)](https://github.com/lordrickyz/bubble-pop)
