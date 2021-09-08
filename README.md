@@ -20,6 +20,7 @@ I'm a Software Engineer coming from a health care background with a passion for 
   </a>
 </p>
  -->
+ 
 ## 🧐 Projects 🧐 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=lordrickyz&repo=bubble-pop&theme=buefy)](https://github.com/lordrickyz/bubble-pop)
