@@ -2,14 +2,20 @@
 
 ## 👋 About Me 👋
 
-I'm a Software Engineer coming from a health care background with a passion for discovering how things work and making them better!
+- Software Engineer
+- Background in life insurance, healthcare and customer service.
+- Love to discover how things work and making them better!
+- Love to try different foods 😋
 
-## 🤓 Connect 🤓
+<a href="https://github.com/lordrickyz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lordrickyz&theme=buefy&layout=compact&langs_count=6"/>
+</a>
 
-<p align="center">
-  <a href="https://lordrickyz.github.io/"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/rickyzhengs/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-</p>
+## 💬 Connect 💬
+
+  <a href="https://lordrickyz.github.io/"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/rickyzhengs/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+
 <!-- 
 ## ⭐️ GitHub Stats ⭐️
 
@@ -21,7 +27,7 @@ I'm a Software Engineer coming from a health care background with a passion for 
 </p>
  -->
  
-## 🧐 Projects 🧐 
+## 💻 Projects 💻
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=lordrickyz&repo=bubble-pop&theme=buefy)](https://github.com/lordrickyz/bubble-pop)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=lordrickyz&repo=groupride&theme=buefy)](https://github.com/lordrickyz/groupride)
