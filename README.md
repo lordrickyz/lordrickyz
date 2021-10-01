@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lordrickyz&theme=buefy&layout=compact&langs_count=6"/>
 </a>
 
-## 💬 Connect 💬
+## 💬 Portfolio + Connect 💬
 
   <a href="https://lordrickyz.github.io/"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/>
   <a href="https://www.linkedin.com/in/rickyzhengs/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
