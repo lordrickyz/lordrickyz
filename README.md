@@ -27,9 +27,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lordrickyz&theme=buefy&layout=compact&langs_count=6"/>
 </a>
  
-## 💻 Projects 💻
+<!-- ## 💻 Projects 💻
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=lordrickyz&repo=bubble-pop&theme=buefy)](https://github.com/lordrickyz/bubble-pop)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=lordrickyz&repo=groupride&theme=buefy)](https://github.com/lordrickyz/groupride)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=lordrickyz&repo=Jello&theme=buefy)](https://github.com/lordrickyz/Jello)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=lordrickyz&repo=mintrello&theme=buefy)](https://github.com/lordrickyz/mintrello)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lordrickyz&repo=mintrello&theme=buefy)](https://github.com/lordrickyz/mintrello) -->
