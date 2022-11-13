@@ -59,7 +59,7 @@
  
 ![](https://komarev.com/ghpvc/?username=lordricky&color=99badd&style=for-the-badge)
     
-<p><img src="https://thumbs.gfycat.com/GroundedPresentAstrangiacoral-max-1mb.gif" align="right" width="250" height="200"/></p>
+<!-- <p><img src="https://thumbs.gfycat.com/GroundedPresentAstrangiacoral-max-1mb.gif" align="right" width="250" height="200"/></p> -->
 <a href="https://github.com/lordrickyz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lordrickyz&theme=buefy&layout=compact&langs_count=6"/>
 </a>
