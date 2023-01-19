@@ -13,7 +13,7 @@
     <b></b> Software Engineer
   </li>
   <li>
-    <b></b> Non-traditional SWE with a background in life insurance, healthcare and customer service.
+    <b></b> Non-traditional SWE with a background in finance, healthcare and customer service.
   </li>
   <li>
     <b></b> Love to discover how things work and making them better!
